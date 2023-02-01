@@ -1,2 +1,1 @@
-# GOD
-Este es un repositorio de prueba del modulo2 del prep course henry
+Esto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora
