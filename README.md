@@ -23,5 +23,6 @@ y editar el texto, dsp guardar
 crear repositorio local, arrastrar la carpeta el visual 
 y poner - git init se vuelve ahora si en repositorio local
 y ahora termina en (master) - ls -a ve archivos ocultos
+Punto.
 
 
